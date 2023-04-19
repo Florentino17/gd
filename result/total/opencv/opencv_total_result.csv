@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/opencv/opencv_Random_Forests_result.csv,0.8813245110870377,0.2862653286132986,0.30124479449129343
-./result/xgboost/opencv/opencv_xgboost_result.csv,0.859348088420594,0.28764975171871543,0.36806650653999257
-./result/bayesian_network/opencv/opencv_bayesian_network_result.csv,0.7802106085629122,0.12543162964329765,0.4405190144211129
-./result/fifo/opencv_FIFO_result.csv,0.6715798251807682,0.03529317410238098,0.6604608794687791
-./result/short_job_first/opencv_short_job_first_result.csv,0.7775011891326901,0.12642301359467403,0.4514982079026071

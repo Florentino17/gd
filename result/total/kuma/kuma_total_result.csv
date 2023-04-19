@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/kuma/kuma_Random_Forests_result.csv,0.8976495828813519,0.49739036353104576,0.29037394499170577
-./result/xgboost/kuma/kuma_xgboost_result.csv,0.8881894932944693,0.4768991578726092,0.3663158651948537
-./result/bayesian_network/kuma/kuma_bayesian_network_result.csv,0.7783888820918559,0.22314906637913726,0.4866337212397574
-./result/fifo/kuma_FIFO_result.csv,0.704082394707328,0.15676553745903168,0.6559345513341537
-./result/short_job_first/kuma_short_job_first_result.csv,0.8576028814051393,0.380128233581094,0.3831583722754237

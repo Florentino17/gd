@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/terraform/terraform_Random_Forests_result.csv,0.8958733348235663,0.25497158246085655,0.32905642496631676
-./result/xgboost/terraform/terraform_xgboost_result.csv,0.8635189653616627,0.17098166719406924,0.3435459037529591
-./result/bayesian_network/terraform/terraform_bayesian_network_result.csv,0.8466370901699103,0.16772122601479536,0.36367348261284893
-./result/fifo/terraform_FIFO_result.csv,0.7149214934260876,0.02581107012984994,0.6151366759527019
-./result/short_job_first/terraform_short_job_first_result.csv,0.795595099152225,0.07411268136409051,0.45209702352386133

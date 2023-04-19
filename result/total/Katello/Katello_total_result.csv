@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/Katello/Katello_Random_Forests_result.csv,0.892933586,0.190398623,0.378391366
-./result/xgboost/Katello/Katello_xgboost_result.csv,0.902404425,0.245577987,0.373862643
-./result/bayesian_network/Katello/Katello_bayesian_network_result.csv,0.875233257,0.155810822,0.404602864
-./result/fifo/Katello_FIFO_result.csv,0.727381847,0.046176568,0.66746103
-./result/short_job_first/Katello_short_job_first_result.csv,0.831402483,0.183747474,0.468595438

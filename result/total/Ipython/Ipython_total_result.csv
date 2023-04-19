@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/Ipython/Ipython_Random_Forests_result.csv,0.8746001872868576,0.34121654464221973,0.33319539627486944
-./result/xgboost/Ipython/Ipython_xgboost_result.csv,0.8697903673883093,0.3177132194460033,0.3585389880507509
-./result/bayesian_network/Ipython/Ipython_bayesian_network_result.csv,0.8327698899630458,0.24986733419350712,0.3697941555319909
-./result/fifo/Ipython_FIFO_result.csv,0.7028804508443168,0.07014482067231285,0.6335562803106389
-./result/short_job_first/Ipython_short_job_first_result.csv,0.8031150065735438,0.2381761683761218,0.46356123141771943

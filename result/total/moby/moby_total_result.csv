@@ -1,6 +1,0 @@
-file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
-./result/ranklib/moby/moby_Random_Forests_result.csv,0.8859799194103297,0.15428753127261427,0.29247586346542126
-./result/xgboost/moby/moby_xgboost_result.csv,0.8828536142061417,0.1419317935130396,0.2878879990039508
-./result/bayesian_network/moby/moby_bayesian_network_result.csv,0.8090999182317405,0.02581154097263725,0.3470741935159303
-./result/fifo/moby_FIFO_result.csv,0.696206718161916,0.020685592856965418,0.636324333747658
-./result/short_job_first/moby_short_job_first_result.csv,0.7889003086282964,0.08764666294609896,0.44267256545202793
