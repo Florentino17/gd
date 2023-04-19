@@ -1,0 +1,6 @@
+file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
+./result/ranklib/zendframework/zendframework_Random_Forests_result.csv,0.9027638455996904,0.2576579221378071,0.37085997021071004
+./result/xgboost/zendframework/zendframework_xgboost_result.csv,0.8467638377858598,0.1631873149721906,0.4047174745238645
+./result/bayesian_network/zendframework/zendframework_bayesian_network_result.csv,0.8809058602579007,0.170408694161267,0.36940491174212514
+./result/fifo/zendframework_FIFO_result.csv,0.7467759388078068,0.043913509302471704,0.5679583567279339
+./result/short_job_first/zendframework_short_job_first_result.csv,0.7984022095990153,0.10291682611755834,0.46304214789465836

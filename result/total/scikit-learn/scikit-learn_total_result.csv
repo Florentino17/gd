@@ -1,0 +1,6 @@
+file_path,ndcg_mean,mrr_mean,kendall_tau_distance_mean
+./result/ranklib/scikit-learn/scikit-learn_Random_Forests_result.csv,0.8055454843383014,0.08923940885988829,0.44909977641198273
+./result/xgboost/scikit-learn/scikit-learn_xgboost_result.csv,0.8377509579206315,0.16682889957702404,0.40066296417526825
+./result/bayesian_network/scikit-learn/scikit-learn_bayesian_network_result.csv,0.7847733480920474,0.05370464259158788,0.4975184308932955
+./result/fifo/scikit-learn_FIFO_result.csv,0.7525862882272257,0.014397846963207232,0.5744034332359188
+./result/short_job_first/scikit-learn_short_job_first_result.csv,0.8028087666037115,0.0851582270978734,0.4781038546793375
